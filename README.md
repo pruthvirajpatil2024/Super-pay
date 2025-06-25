@@ -1,5 +1,3 @@
----
-```markdown
 # 💰 Super Pay
 
 A modern peer-to-peer money transfer web app that allows users to send, receive, and track transactions securely — with support for dual currency balance and a sleek dark mode interface.
@@ -138,7 +136,3 @@ Feel free to connect with the maintainer:
 ---
 
 > **Super Pay** – Secure, seamless, and smart money transfer, made for the modern web.
-
-```
-
----
